@@ -1,0 +1,8 @@
+av==10.0.0
+cvzone==1.6.1
+djitellopy2==2.3
+numpy==1.26.0
+opencv-contrib-python==4.8.1.78
+opencv-python==4.8.1.78
+Pillow==10.0.1
+pygame==2.5.2
